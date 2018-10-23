@@ -15,9 +15,6 @@ public class Person1 implements Comparable<Person1>{
     public String getName(){
 
         return this.name;
-
-
-
     }
 
     @Override
