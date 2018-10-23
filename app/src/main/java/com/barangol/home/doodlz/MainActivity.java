@@ -110,6 +110,8 @@ public class MainActivity extends AppCompatActivity {
         };
         Log.d("MyTag", ((Integer) myCalc.Calculate(10,15,20)).toString());
 
+
+
     }
     interface MyCalc{
         int Calculate(int x,int y, int z);
