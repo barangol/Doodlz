@@ -33,7 +33,7 @@ public  class MyRect  {
         x1 = x-sizex/2;
         y1 = y-sizey/2;
         x2 = x + sizex/2;
-        y2 = y + sizey/2;
+        y2 = y + sizey/2;;
 
         onDraw(canvas,rect,paint);
 
