@@ -13,8 +13,9 @@ public class Person1 implements Comparable<Person1>{
         this.name = name;
     }
     public String getName(){
-
+ id = id;
         return this.name;
+
     }
 
     @Override
